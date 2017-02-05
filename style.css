@@ -1,0 +1,81 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+#header{
+    background:grey;
+    margin: 0 auto ;
+    box-shadow: 5px 5px  5px #333333;
+    text-align: center;
+    width: 80%;
+    padding: 1%;
+    color: wheat;
+    border-radius: 30px;
+    
+}
+
+.wellcome{
+    margin-top: 50px;
+    text-align: center;
+}
+.wellcome button{
+    background:lightgrey;
+    padding: 1% 2%;
+    border: 1px solid lightgrey;
+    border-radius: 30px;
+    
+}
+
+#status{
+    text-align: center;
+    padding: 1%;
+    background: gainsboro;
+}
+
+#test{
+    width: 80%;
+    margin: 2% auto   ;
+    padding: 2%;
+    min-height: 370px;
+    background: #eeeeee;
+    position: relative;
+}
+#question{
+    margin-bottom: 5%;
+    padding-bottom: 1%;
+    border-bottom: 1px solid #aaaaaa;
+}
+.optionBtn{
+    
+    margin: 1%;
+}
+#nextBtn{
+    position: absolute;
+    top: 85%;
+    left: 90%;
+    padding: 1% 2%;
+    background: #aaaaaa;
+    border: 1px solid #999999;
+    border-radius: 2px 2px;
+    
+}
+
+#complete{
+    text-align: center;
+    padding: 5%;
+    margin: 5% auto;
+}
+.resultBox{
+    width: 50%;
+    background: blue
+ 
+}
+
+#footer{
+    
+    text-align: center;
+    width: 80%;
+    color: #333333;
+     
+}
